@@ -7,7 +7,7 @@ about:
   head: cbdc90f
   archived: false
   latestVersion: 
-  collectedAt: 2026-09-04T19:47:47Z
+  collectedAt: 2026-09-04T20:49:21Z
 timeline:
   created: 2025-04-29
   lastCommit: 2026-07-12
@@ -82,5 +82,33 @@ total:
   openIssue: 21
   commit: 591
 ---
+path: /home/runner/.x-repo/github.com/tsowell/wiremix
+collectedAt: 2026-09-04T20:49:22Z
+loc:
+  Rust:
+    code: 9885
+    comments: 255
+    blanks: 1320
+    files: 47
+  Toml:
+    code: 265
+    comments: 292
+    blanks: 40
+    files: 3
+  Nix:
+    code: 85
+    comments: 2
+    blanks: 8
+    files: 2
+  Markdown:
+    code: 0
+    comments: 272
+    blanks: 135
+    files: 2
+total:
+  code: 10277
+  comments: 1115
+  blanks: 1533
+  files: 54
 ---
 
