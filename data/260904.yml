@@ -1,0 +1,58 @@
+about:
+  description: Simple TUI audio mixer for PipeWire
+  license: Apache-2.0
+  homepage: 
+  head: cbdc90f
+  archived: false
+  latestVersion: 
+  collectedAt: 2026-09-04T04:43:05Z
+timeline:
+  created: 2025-04-29
+  lastCommit: 2026-07-12
+  lastRelease: ?
+popularity:
+  star: 1046
+  watcher: 10
+  fork: 36
+  release: 0
+  contributor: 12
+  pullRequest: 25
+  issue: 41
+language:
+  Rust: 369311
+  Nix: 1963
+  Shell: 10
+totalLine: 371284
+recent:
+  last30d:
+    since: 2026-08-05
+    release: 0
+    mergedPR: 0
+    openPR: 6
+    closedIssue: 0
+    openIssue: 4
+    commit: 0
+  last90d:
+    since: 2026-06-06
+    release: 0
+    mergedPR: 1
+    openPR: 13
+    closedIssue: 1
+    openIssue: 6
+    commit: 4
+  last180d:
+    since: 2026-03-08
+    release: 0
+    mergedPR: 2
+    openPR: 15
+    closedIssue: 4
+    openIssue: 11
+    commit: 11
+  last360d:
+    since: 2025-09-09
+    release: 0
+    mergedPR: 5
+    openPR: 17
+    closedIssue: 12
+    openIssue: 17
+    commit: 50
