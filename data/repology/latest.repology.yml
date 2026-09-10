@@ -1,15 +1,3 @@
-- repo: nix_stable_26_05
-  srcname: wiremix
-  visiblename: wiremix
-  version: 0.10.0
-  origversion: null
-  status: outdated
-  summary: Simple TUI mixer for PipeWire
-  maintainers:
-    - tom@ldtlb.com
-  licenses:
-    - Apache-2.0
-    - MIT
 - repo: alpine_edge
   subrepo: testing
   srcname: wiremix
@@ -228,6 +216,19 @@
     - MIT OR Apache-2.0
   categories:
     - Unspecified
+- repo: ubuntu_26_10_proposed
+  subrepo: stonking-proposed/universe
+  srcname: wiremix
+  binnames:
+    - wiremix
+  visiblename: wiremix
+  version: 0.7.0
+  origversion: 0.7.0-1
+  status: outdated
+  maintainers:
+    - federico@debian.org
+  categories:
+    - universe/utils
 - repo: void_x86_64
   subrepo: x86_64
   srcname: wiremix
@@ -250,7 +251,7 @@
   status: newest
   summary: A simple TUI audio mixer for PipeWire
   maintainers:
-    - fallback-mnt-vylen@repology
+    - wonkru-dev@proton.me
 - repo: gentoo
   srcname: media-sound/wiremix
   visiblename: media-sound/wiremix
@@ -390,6 +391,18 @@
   licenses:
     - Apache-2.0
     - MIT
+- repo: nix_stable_26_05
+  srcname: wiremix
+  visiblename: wiremix
+  version: 0.10.0
+  origversion: null
+  status: outdated
+  summary: Simple TUI mixer for PipeWire
+  maintainers:
+    - tom@ldtlb.com
+  licenses:
+    - Apache-2.0
+    - MIT
 - repo: nix_unstable
   srcname: wiremix
   visiblename: wiremix
@@ -445,16 +458,3 @@
   licenses:
     - MIT
     - Apache-2.0
-- repo: ubuntu_26_10_proposed
-  subrepo: stonking-proposed/universe
-  srcname: wiremix
-  binnames:
-    - wiremix
-  visiblename: wiremix
-  version: 0.7.0
-  origversion: 0.7.0-1
-  status: outdated
-  maintainers:
-    - federico@debian.org
-  categories:
-    - universe/utils
