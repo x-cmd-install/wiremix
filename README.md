@@ -30,36 +30,22 @@ Total: **10,235** lines of code across **54** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,054 · **Forks**: 36 · **Open issues**: 41 · **Contributors**: 12
+- **Stars**: 1,055 · **Forks**: 37 · **Open issues**: 41 · **Contributors**: 12
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 14 · **Open PRs**: 18 · **Closed issues**: 20 · **Open issues**: 21 · **Commits**: 591
+- **Releases**: 0 · **Merged PRs**: 14 · **Open PRs**: 19 · **Closed issues**: 20 · **Open issues**: 21 · **Commits**: 591
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 0 | 0 | 0 | 2 | 0 |
-| last60d | 2026-07-15 | 0 | 0 | 10 | 0 | 4 | 0 |
-| 90d | 2026-06-15 | 0 | 1 | 13 | 1 | 5 | 3 |
-| last180d | 2026-03-17 | 0 | 2 | 15 | 3 | 11 | 10 |
-| 360d | 2025-09-18 | 0 | 5 | 17 | 12 | 17 | 45 |
-| last720d | 2024-09-23 | 0 | 14 | 18 | 20 | 21 | 591 |
-
-## Distribution status
-
-Reported by **35** distros on [repology.org](https://repology.org/project/wiremix). **16** are ✅ on the latest upstream release, **12** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `0.7.0` | ⚠️ outdated |
-| Arch | `0.11.0` | ✅ latest |
-| Fedora rawhide | `0.11.0` | ✅ latest |
-| Nix unstable | `0.11.0` | ✅ latest |
-| Void | `0.11.0` | ✅ latest |
-| Alpine edge | `0.10.0` | ⚠️ outdated |
-| openSUSE Tumbleweed | `0.11.0~0` | ✅ latest |
+| 30d | 2026-08-15 | 0 | 0 | 1 | 0 | 2 | 0 |
+| last60d | 2026-07-16 | 0 | 0 | 11 | 0 | 4 | 0 |
+| 90d | 2026-06-16 | 0 | 1 | 14 | 1 | 5 | 3 |
+| last180d | 2026-03-18 | 0 | 2 | 15 | 3 | 11 | 10 |
+| 360d | 2025-09-19 | 0 | 5 | 18 | 12 | 17 | 45 |
+| last720d | 2024-09-24 | 0 | 14 | 19 | 20 | 21 | 591 |
 
 ## Improve this data
 
@@ -70,4 +56,4 @@ Install metadata for wiremix lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T04:57:10Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T04:59:38Z._
