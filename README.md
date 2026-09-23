@@ -4,7 +4,7 @@
 
 Simple TUI audio mixer for PipeWire
 
-[![x-cmd/install — wiremix Code Quality Monitoring Repo Card](https://repo.x-cmd.io/wiremix.svg)](https://x-cmd.com/install/wiremix)
+[![x-cmd/install — wiremix Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/wiremix.svg)](https://x-cmd.com/install/wiremix)
 
 ## Install
 
@@ -30,7 +30,7 @@ Total: **10,235** lines of code across **54** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,060 · **Forks**: 36 · **Open issues**: 41 · **Contributors**: 12
+- **Stars**: 1,063 · **Forks**: 36 · **Open issues**: 41 · **Contributors**: 12
 
 ## Totals (cumulative)
 
@@ -40,12 +40,12 @@ Total: **10,235** lines of code across **54** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 0 | 0 | 2 | 0 |
-| last60d | 2026-07-24 | 0 | 0 | 10 | 0 | 4 | 0 |
-| 90d | 2026-06-24 | 0 | 0 | 13 | 1 | 5 | 2 |
-| last180d | 2026-03-26 | 0 | 2 | 13 | 3 | 10 | 10 |
-| 360d | 2025-09-27 | 0 | 5 | 17 | 12 | 17 | 45 |
-| last720d | 2024-10-02 | 0 | 14 | 18 | 20 | 21 | 591 |
+| 30d | 2026-08-24 | 0 | 0 | 0 | 0 | 2 | 0 |
+| last60d | 2026-07-25 | 0 | 0 | 10 | 0 | 4 | 0 |
+| 90d | 2026-06-25 | 0 | 0 | 13 | 1 | 5 | 2 |
+| last180d | 2026-03-27 | 0 | 2 | 13 | 3 | 10 | 10 |
+| 360d | 2025-09-28 | 0 | 5 | 17 | 12 | 17 | 45 |
+| last720d | 2024-10-03 | 0 | 14 | 18 | 20 | 21 | 591 |
 
 ## Improve this data
 
@@ -56,4 +56,4 @@ Install metadata for wiremix lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T04:52:54Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:09:41Z._
