@@ -14,13 +14,13 @@ x install wiremix
 
 ## Code insight
 
-Total: **10,235** lines of code across **54** files in the top 5 languages.
+Total: **10,242** lines of code across **55** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Rust | 9,885 | 255 | 1,320 | 47 |
-| Toml | 265 | 292 | 40 | 3 |
-| Nix | 85 | 2 | 8 | 2 |
+| Toml | 268 | 292 | 40 | 4 |
+| Nix | 89 | 2 | 8 | 2 |
 | Markdown | 0 | 272 | 135 | 2 |
 
 ## Source
@@ -30,22 +30,22 @@ Total: **10,235** lines of code across **54** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,077 · **Forks**: 36 · **Open issues**: 41 · **Contributors**: 12
+- **Stars**: 1,078 · **Forks**: 36 · **Open issues**: 41 · **Contributors**: 12
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 14 · **Open PRs**: 18 · **Closed issues**: 20 · **Open issues**: 21 · **Commits**: 591
+- **Releases**: 0 · **Merged PRs**: 14 · **Open PRs**: 18 · **Closed issues**: 20 · **Open issues**: 21 · **Commits**: 595
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-15 | 0 | 0 | 0 | 0 | 2 | 0 |
-| 90d | 2026-07-16 | 0 | 0 | 10 | 0 | 4 | 0 |
-| last180d | 2026-04-17 | 0 | 2 | 13 | 2 | 9 | 6 |
-| 360d | 2025-10-19 | 0 | 4 | 17 | 11 | 16 | 45 |
-| last720d | 2024-10-24 | 0 | 14 | 18 | 20 | 21 | 591 |
+| 30d | 2026-09-15 | 0 | 0 | 0 | 0 | 0 | 4 |
+| last60d | 2026-08-16 | 0 | 0 | 0 | 0 | 2 | 4 |
+| 90d | 2026-07-17 | 0 | 0 | 10 | 0 | 4 | 4 |
+| last180d | 2026-04-18 | 0 | 2 | 13 | 2 | 9 | 10 |
+| 360d | 2025-10-20 | 0 | 4 | 17 | 11 | 16 | 49 |
+| last720d | 2024-10-25 | 0 | 14 | 18 | 20 | 21 | 595 |
 
 ## Improve this data
 
@@ -56,4 +56,4 @@ Install metadata for wiremix lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261014.yml` · 2026-10-14T04:55:27Z._
+_Snapshot: `data/card/261015.yml` · 2026-10-15T04:35:22Z._
