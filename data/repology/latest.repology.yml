@@ -1,16 +1,25 @@
-- repo: alpine_edge
-  subrepo: testing
+- repo: parabola
+  subrepo: extra
   srcname: wiremix
-  binname: wiremix-doc
-  visiblename: wiremix-doc
-  version: 0.10.0
-  origversion: 0.10.0-r0
-  status: outdated
-  summary: Simple TUI audio mixer for PipeWire (documentation)
-  maintainers:
-    - neyuriizkh@proton.me
+  binname: wiremix
+  visiblename: wiremix
+  version: 0.11.0
+  origversion: 0.11.0-1
+  status: newest
+  summary: A simple TUI audio mixer for PipeWire
   licenses:
-    - MIT OR Apache-2.0
+    - MIT
+    - Apache-2.0
+- repo: starkos
+  subrepo: extra
+  srcname: wiremix
+  visiblename: wiremix
+  version: 0.11.0
+  origversion: 0.11.0-1
+  status: newest
+  summary: A simple TUI audio mixer for PipeWire
+  maintainers:
+    - starkos@disroot.org
 - repo: alpine_edge
   subrepo: testing
   srcname: wiremix
@@ -20,6 +29,19 @@
   origversion: 0.10.0-r0
   status: outdated
   summary: Simple TUI audio mixer for PipeWire
+  maintainers:
+    - neyuriizkh@proton.me
+  licenses:
+    - MIT OR Apache-2.0
+- repo: alpine_edge
+  subrepo: testing
+  srcname: wiremix
+  binname: wiremix-doc
+  visiblename: wiremix-doc
+  version: 0.10.0
+  origversion: 0.10.0-r0
+  status: outdated
+  summary: Simple TUI audio mixer for PipeWire (documentation)
   maintainers:
     - neyuriizkh@proton.me
   licenses:
@@ -216,6 +238,16 @@
     - MIT OR Apache-2.0
   categories:
     - Unspecified
+- repo: vylen
+  subrepo: community
+  srcname: wiremix
+  visiblename: wiremix
+  version: 0.11.0
+  origversion: 0.11.0-1
+  status: newest
+  summary: A simple TUI audio mixer for PipeWire
+  maintainers:
+    - wonkru-dev@proton.me
 - repo: gentoo
   srcname: media-sound/wiremix
   visiblename: media-sound/wiremix
@@ -410,18 +442,6 @@
     - MIT OR Apache-2.0
   categories:
     - Unspecified
-- repo: parabola
-  subrepo: extra
-  srcname: wiremix
-  binname: wiremix
-  visiblename: wiremix
-  version: 0.11.0
-  origversion: 0.11.0-1
-  status: newest
-  summary: A simple TUI audio mixer for PipeWire
-  licenses:
-    - MIT
-    - Apache-2.0
 - repo: void_x86_64
   subrepo: x86_64
   srcname: wiremix
@@ -435,13 +455,3 @@
     - cat@thenight.club
   licenses:
     - MIT OR Apache-2.0
-- repo: vylen
-  subrepo: community
-  srcname: wiremix
-  visiblename: wiremix
-  version: 0.11.0
-  origversion: 0.11.0-1
-  status: newest
-  summary: A simple TUI audio mixer for PipeWire
-  maintainers:
-    - wonkru-dev@proton.me
