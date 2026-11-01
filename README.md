@@ -30,7 +30,7 @@ Total: **10,240** lines of code across **55** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,085 · **Forks**: 37 · **Open issues**: 41 · **Contributors**: 13
+- **Stars**: 1,086 · **Forks**: 37 · **Open issues**: 41 · **Contributors**: 13
 
 ## Totals (cumulative)
 
@@ -40,12 +40,12 @@ Total: **10,240** lines of code across **55** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 0 | 0 | 1 | 0 | 0 | 12 |
-| last60d | 2026-09-01 | 0 | 0 | 1 | 0 | 1 | 12 |
-| 90d | 2026-08-02 | 0 | 0 | 3 | 0 | 4 | 12 |
-| last180d | 2026-05-04 | 0 | 2 | 5 | 2 | 7 | 18 |
-| 360d | 2025-11-05 | 0 | 4 | 9 | 11 | 16 | 56 |
-| last720d | 2024-11-10 | 0 | 14 | 10 | 20 | 21 | 603 |
+| 30d | 2026-10-02 | 0 | 0 | 1 | 0 | 0 | 12 |
+| last60d | 2026-09-02 | 0 | 0 | 1 | 0 | 0 | 12 |
+| 90d | 2026-08-03 | 0 | 0 | 3 | 0 | 4 | 12 |
+| last180d | 2026-05-05 | 0 | 2 | 5 | 2 | 6 | 18 |
+| 360d | 2025-11-06 | 0 | 4 | 9 | 11 | 16 | 51 |
+| last720d | 2024-11-11 | 0 | 14 | 10 | 20 | 21 | 603 |
 
 ## Distribution status
 
@@ -70,4 +70,4 @@ Install metadata for wiremix lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T05:32:23Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T06:10:15Z._
