@@ -30,7 +30,7 @@ Total: **10,240** lines of code across **55** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,086 · **Forks**: 37 · **Open issues**: 42 · **Contributors**: 13
+- **Stars**: 1,088 · **Forks**: 37 · **Open issues**: 42 · **Contributors**: 13
 
 ## Totals (cumulative)
 
@@ -40,16 +40,16 @@ Total: **10,240** lines of code across **55** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 0 | 0 | 1 | 0 | 1 | 12 |
-| last60d | 2026-09-03 | 0 | 0 | 1 | 0 | 1 | 12 |
-| 90d | 2026-08-04 | 0 | 0 | 3 | 0 | 5 | 12 |
-| last180d | 2026-05-06 | 0 | 2 | 5 | 2 | 7 | 18 |
-| 360d | 2025-11-07 | 0 | 4 | 9 | 11 | 17 | 51 |
-| last720d | 2024-11-12 | 0 | 14 | 10 | 20 | 22 | 603 |
+| 30d | 2026-10-04 | 0 | 0 | 1 | 0 | 1 | 12 |
+| last60d | 2026-09-04 | 0 | 0 | 1 | 0 | 1 | 12 |
+| 90d | 2026-08-05 | 0 | 0 | 2 | 0 | 5 | 12 |
+| last180d | 2026-05-07 | 0 | 2 | 5 | 2 | 7 | 18 |
+| 360d | 2025-11-08 | 0 | 3 | 9 | 11 | 17 | 51 |
+| last720d | 2024-11-13 | 0 | 14 | 10 | 20 | 22 | 603 |
 
 ## Distribution status
 
-Reported by **36** distros on [repology.org](https://repology.org/project/wiremix). **20** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
+Reported by **34** distros on [repology.org](https://repology.org/project/wiremix). **18** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -70,4 +70,4 @@ Install metadata for wiremix lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T06:05:11Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T06:44:12Z._
