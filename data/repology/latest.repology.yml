@@ -1,3 +1,42 @@
+- repo: gentoo
+  srcname: media-sound/wiremix
+  visiblename: media-sound/wiremix
+  version: 0.10.0
+  origversion: 0.10.0-r1
+  status: legacy
+  summary: A TUI mixer for PipeWire
+  maintainers:
+    - chutzpah@gentoo.org
+  licenses:
+    - '|| ( Apache-2.0 MIT ) Apache-2.0 Apache-2.0-with-LLVM-exceptions BSD ISC MIT Unicode-3.0 ZLIB'
+  categories:
+    - media-sound
+- repo: liguros_stable
+  srcname: media-sound/wiremix
+  visiblename: media-sound/wiremix
+  version: 0.4.0
+  origversion: null
+  status: outdated
+  summary: A TUI mixer for PipeWire
+  maintainers:
+    - chutzpah@gentoo.org
+  licenses:
+    - '|| ( Apache-2.0 MIT ) Apache-2.0 Apache-2.0-with-LLVM-exceptions BSD ISC MIT Unicode-3.0 ZLIB'
+  categories:
+    - media-sound
+- repo: liguros_develop
+  srcname: media-sound/wiremix
+  visiblename: media-sound/wiremix
+  version: 0.7.0
+  origversion: null
+  status: legacy
+  summary: A TUI mixer for PipeWire
+  maintainers:
+    - chutzpah@gentoo.org
+  licenses:
+    - '|| ( Apache-2.0 MIT ) Apache-2.0 Apache-2.0-with-LLVM-exceptions BSD ISC MIT Unicode-3.0 ZLIB'
+  categories:
+    - media-sound
 - repo: alpine_edge
   subrepo: testing
   srcname: wiremix
@@ -46,7 +85,7 @@
   binname: wiremix
   visiblename: wiremix
   version: 0.11.0
-  origversion: 0.11.0-1
+  origversion: 0.11.0-2
   status: newest
   summary: A simple TUI audio mixer for PipeWire
   licenses:
@@ -65,6 +104,19 @@
   licenses:
     - Apache-2.0
     - MIT
+- repo: gentoo
+  srcname: media-sound/wiremix
+  visiblename: media-sound/wiremix
+  version: 0.11.0
+  origversion: null
+  status: newest
+  summary: A TUI mixer for PipeWire
+  maintainers:
+    - chutzpah@gentoo.org
+  licenses:
+    - '|| ( Apache-2.0 MIT ) Apache-2.0 Apache-2.0-with-LLVM-exceptions BSD ISC MIT Unicode-3.0 ZLIB'
+  categories:
+    - media-sound
 - repo: chimera
   subrepo: user
   srcname: wiremix
@@ -232,82 +284,7 @@
     - MIT OR Apache-2.0
   categories:
     - Unspecified
-- repo: void_x86_64
-  subrepo: x86_64
-  srcname: wiremix
-  binname: wiremix
-  visiblename: wiremix
-  version: 0.11.0
-  origversion: 0.11.0_1
-  status: newest
-  summary: Simple TUI audio mixer for PipeWire
-  maintainers:
-    - cat@thenight.club
-  licenses:
-    - MIT OR Apache-2.0
-- repo: vylen
-  subrepo: community
-  srcname: wiremix
-  visiblename: wiremix
-  version: 0.11.0
-  origversion: 0.11.0-1
-  status: newest
-  summary: A simple TUI audio mixer for PipeWire
-  maintainers:
-    - wonkru-dev@proton.me
 - repo: gentoo
-  srcname: media-sound/wiremix
-  visiblename: media-sound/wiremix
-  version: 0.7.0
-  origversion: null
-  status: legacy
-  summary: A TUI mixer for PipeWire
-  maintainers:
-    - chutzpah@gentoo.org
-  licenses:
-    - '|| ( Apache-2.0 MIT ) Apache-2.0 Apache-2.0-with-LLVM-exceptions BSD ISC MIT Unicode-3.0 ZLIB'
-  categories:
-    - media-sound
-- repo: gentoo
-  srcname: media-sound/wiremix
-  visiblename: media-sound/wiremix
-  version: 0.11.0
-  origversion: null
-  status: newest
-  summary: A TUI mixer for PipeWire
-  maintainers:
-    - chutzpah@gentoo.org
-  licenses:
-    - '|| ( Apache-2.0 MIT ) Apache-2.0 Apache-2.0-with-LLVM-exceptions BSD ISC MIT Unicode-3.0 ZLIB'
-  categories:
-    - media-sound
-- repo: gentoo
-  srcname: media-sound/wiremix
-  visiblename: media-sound/wiremix
-  version: 0.10.0
-  origversion: 0.10.0-r1
-  status: legacy
-  summary: A TUI mixer for PipeWire
-  maintainers:
-    - chutzpah@gentoo.org
-  licenses:
-    - '|| ( Apache-2.0 MIT ) Apache-2.0 Apache-2.0-with-LLVM-exceptions BSD ISC MIT Unicode-3.0 ZLIB'
-  categories:
-    - media-sound
-- repo: liguros_stable
-  srcname: media-sound/wiremix
-  visiblename: media-sound/wiremix
-  version: 0.4.0
-  origversion: null
-  status: outdated
-  summary: A TUI mixer for PipeWire
-  maintainers:
-    - chutzpah@gentoo.org
-  licenses:
-    - '|| ( Apache-2.0 MIT ) Apache-2.0 Apache-2.0-with-LLVM-exceptions BSD ISC MIT Unicode-3.0 ZLIB'
-  categories:
-    - media-sound
-- repo: liguros_develop
   srcname: media-sound/wiremix
   visiblename: media-sound/wiremix
   version: 0.7.0
@@ -447,3 +424,26 @@
   summary: A simple TUI audio mixer for PipeWire
   maintainers:
     - starkos@disroot.org
+- repo: void_x86_64
+  subrepo: x86_64
+  srcname: wiremix
+  binname: wiremix
+  visiblename: wiremix
+  version: 0.11.0
+  origversion: 0.11.0_1
+  status: newest
+  summary: Simple TUI audio mixer for PipeWire
+  maintainers:
+    - cat@thenight.club
+  licenses:
+    - MIT OR Apache-2.0
+- repo: vylen
+  subrepo: community
+  srcname: wiremix
+  visiblename: wiremix
+  version: 0.11.0
+  origversion: 0.11.0-1
+  status: newest
+  summary: A simple TUI audio mixer for PipeWire
+  maintainers:
+    - wonkru-dev@proton.me
